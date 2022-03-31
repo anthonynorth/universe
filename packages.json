@@ -1,0 +1,30 @@
+[
+  {
+    "package": "rdeck",
+    "url": "https://github.com/anthonynorth/rdeck"
+  },
+  {
+    "package": "roxyglobals",
+    "url": "https://github.com/anthonynorth/roxyglobals"
+  },
+  {
+    "package": "rscodeio",
+    "url": "https://github.com/anthonynorth/rscodeio"
+  },
+  {
+    "package": "snapbox",
+    "url": "https://github.com/anthonynorth/snapbox"
+  },
+  {
+    "package": "stylebox",
+    "url": "https://github.com/anthonynorth/stylebox"
+  },
+  {
+    "package": "using",
+    "url": "https://github.com/anthonynorth/using"
+  },
+  {
+    "package": "tidyassert",
+    "url": "https://github.com/qfes/tidyassert"
+  }
+]

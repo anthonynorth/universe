@@ -4,6 +4,10 @@
     "url": "https://github.com/qfes/rdeck"
   },
   {
+    "package": "cloudview",
+    "url": "https://github.com/anthonynorth/cloudview"
+  },
+  {
     "package": "roxyglobals",
     "url": "https://github.com/anthonynorth/roxyglobals"
   },

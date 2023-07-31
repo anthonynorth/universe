@@ -10,8 +10,7 @@
   },
   {
     "package": "roxyglobals",
-    "url": "https://github.com/anthonynorth/roxyglobals",
-    "branch": "*release"
+    "url": "https://github.com/anthonynorth/roxyglobals"
   },
   {
     "package": "rscodeio",

@@ -1,7 +1,8 @@
 [
   {
     "package": "rdeck",
-    "url": "https://github.com/qfes/rdeck"
+    "url": "https://github.com/qfes/rdeck",
+    "branch": "*release"
   },
   {
     "package": "cloudview",
@@ -9,23 +10,28 @@
   },
   {
     "package": "roxyglobals",
-    "url": "https://github.com/anthonynorth/roxyglobals"
+    "url": "https://github.com/anthonynorth/roxyglobals",
+    "branch": "*release"
   },
   {
     "package": "rscodeio",
-    "url": "https://github.com/anthonynorth/rscodeio"
+    "url": "https://github.com/anthonynorth/rscodeio",
+    "branch": "*release"
   },
   {
     "package": "snapbox",
-    "url": "https://github.com/anthonynorth/snapbox"
+    "url": "https://github.com/anthonynorth/snapbox",
+    "branch": "*release"
   },
   {
     "package": "stylebox",
-    "url": "https://github.com/anthonynorth/stylebox"
+    "url": "https://github.com/anthonynorth/stylebox",
+    "branch": "*release"
   },
   {
     "package": "using",
-    "url": "https://github.com/anthonynorth/using"
+    "url": "https://github.com/anthonynorth/using",
+    "branch": "*release"
   },
   {
     "package": "tidyassert",

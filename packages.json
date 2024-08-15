@@ -13,23 +13,19 @@
   },
   {
     "package": "rscodeio",
-    "url": "https://github.com/anthonynorth/rscodeio",
-    "branch": "*release"
+    "url": "https://github.com/anthonynorth/rscodeio"
   },
   {
     "package": "snapbox",
-    "url": "https://github.com/anthonynorth/snapbox",
-    "branch": "*release"
+    "url": "https://github.com/anthonynorth/snapbox"
   },
   {
     "package": "stylebox",
-    "url": "https://github.com/anthonynorth/stylebox",
-    "branch": "*release"
+    "url": "https://github.com/anthonynorth/stylebox"
   },
   {
     "package": "using",
-    "url": "https://github.com/anthonynorth/using",
-    "branch": "*release"
+    "url": "https://github.com/anthonynorth/using"
   },
   {
     "package": "tidyassert",
